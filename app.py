@@ -61,7 +61,7 @@ if selected=="Introduction":
     st.markdown("<h2 style='font-size: 22px;'>This AI model does not possess a 100% accuracy rate. We will provide you with the accuracy rate below your prediction.</h2>", unsafe_allow_html=True)
 
     st.markdown("<h2 style='font-size: 28px;'>Hope you Like it...</h2>", unsafe_allow_html=True)
-    st.button('Source Code','https://theyajat.streamlit.app/','Source Code',10)
+    st.button('Source Code','https://github.com/theyajat/diabetes_prediction','Source Code',10)
 
 
 if selected=="App":

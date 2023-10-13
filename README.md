@@ -6,6 +6,5 @@ Project Link : https://diabetes-prediction-yaj.streamlit.app/
 
 ## Features
 - Predicts the likelihood of diabetes based on user-provided data.
-- Visualizes prediction results with Matplotlib.
 - User-friendly interface created with Streamlit.
 - Powered by scikit-learn for the machine learning model.
